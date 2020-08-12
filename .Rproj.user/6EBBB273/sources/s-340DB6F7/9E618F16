@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588032839825.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9E618F16",
+    "lastKnownWriteTime" : 1589607329,
+    "last_content_update" : 1589607329835,
+    "path" : "C:/Users/Zahid/Desktop/R_Project/R_Project/myApp/setup.R",
+    "project_path" : "myApp/setup.R",
+    "properties" : {
+        "cursorPosition" : "11,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

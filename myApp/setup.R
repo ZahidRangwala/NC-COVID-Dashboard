@@ -1,0 +1,12 @@
+library(shiny)
+library(ggplot2)
+library(usmap)
+library(RCurl)
+library(dplyr)
+library(rgdal)# for readOGR(...)
+library(sf)
+library(reshape2)
+library(rsconnect)
+library(tidyr)
+library(readr)
+

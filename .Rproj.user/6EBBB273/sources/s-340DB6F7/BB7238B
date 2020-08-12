@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1586314927236.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "888235169",
+    "id" : "BB7238B",
+    "lastKnownWriteTime" : 1597099920,
+    "last_content_update" : 1597099920882,
+    "path" : "C:/Users/Zahid/Desktop/R_Project/R_Project/myApp/ui.R",
+    "project_path" : "myApp/ui.R",
+    "properties" : {
+        "cursorPosition" : "6,3",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

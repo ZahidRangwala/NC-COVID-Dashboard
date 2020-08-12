@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588032828387.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "9A048BF4",
+    "lastKnownWriteTime" : 1589684038,
+    "last_content_update" : 1589684038779,
+    "path" : "C:/Users/Zahid/Desktop/R_Project/R_Project/myApp/data.R",
+    "project_path" : "myApp/data.R",
+    "properties" : {
+        "cursorPosition" : "3,13",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

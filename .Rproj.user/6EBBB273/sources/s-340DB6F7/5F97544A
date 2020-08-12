@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589683393803.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "5F97544A",
+    "lastKnownWriteTime" : 3833180308419998817,
+    "last_content_update" : 1589683393803,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "491A1D06",
+        "caption" : "ncTimeD",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=ncTimeD&cache_key=491A1D06",
+        "displayedObservations" : 115,
+        "environment" : "",
+        "object" : "ncTimeD",
+        "preview" : 0,
+        "totalObservations" : 115,
+        "variables" : 3
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}

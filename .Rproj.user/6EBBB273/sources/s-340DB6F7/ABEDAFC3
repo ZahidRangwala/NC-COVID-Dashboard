@@ -1,0 +1,29 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1589683768442.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "ABEDAFC3",
+    "lastKnownWriteTime" : 2482448084909518882,
+    "last_content_update" : 1589683768442,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "953551F0",
+        "caption" : "timeseriesNC",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=timeseriesNC&cache_key=953551F0",
+        "displayedObservations" : 11730,
+        "environment" : "",
+        "object" : "timeseriesNC",
+        "preview" : 0,
+        "totalObservations" : 11730,
+        "variables" : 3
+    },
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
