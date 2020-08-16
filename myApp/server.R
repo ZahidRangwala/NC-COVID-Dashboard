@@ -1,6 +1,4 @@
-
-#setwd("C:/Users/Zahid/Desktop/R_Project/R_Project/myApp")
-setwd(getwd())
+#setwd(getwd())
 source("setup.R")
 source("data.R")
 source("graphics.R")
