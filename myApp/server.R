@@ -10,18 +10,20 @@ server <- function(input, output) {
   #Server Stuff
   output$confirmedNCtable <- renderTable(tableDataNC)
   output$plotNCconfirmed <- renderPlot(ncMapConfirmed)
-  
   confirmString <- paste("Total Confirmed: " , sum(dailyNC$Confirmed))
-  output$totalDeath <- renderText(confirmString)
-  
-  confirmString <- paste("Total Deaths: " , sum(dailyNC$Deaths))
-  output$totalRecovered <- renderText(confirmString)
-  
-  confirmString <- paste("Total Recovered: " , sum(dailyNC$Recovered))
-  output$totalActive <- renderText(confirmString)
-  
-  confirmString <- paste("Total Active: " , sum(dailyNC$Active))
   output$totalConfirm <- renderText(confirmString)
+  
+  deathString <- paste("Total Deaths: " , sum(dailyNC$Deaths))
+  output$totalDeath <- renderText(deathString)
+  
+  recoveredString <- paste("Total Recovered: " , sum(dailyNC$Recovered))
+  output$totalRecovered <- renderText(recoveredString)
+  
+  activeString <- paste("Total Active: " , sum(dailyNC$Active))
+  output$totalActive <- renderText(activeString)
+  
+  
+  
   
   output$plotNCdeath <-  renderPlot(ncMapDeath)
   
