@@ -1,8 +1,8 @@
-#Seperate File for Importing/Cleaning data
+#Separate File for Importing/Cleaning data
 
 
 #Getting the data from the John Hopkins Repository
-dateString <- as.character(format(Sys.Date() - 1, format="%m-%d-%Y"))
+dateString <- as.character(format(Sys.Date() - 2, format="%m-%d-%Y"))
 url <- as.character(paste("https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_daily_reports/" , dateString , ".csv" , sep = "", collapse = NULL))
 x <- getURL(url)
 daily <- read.csv(text = x)

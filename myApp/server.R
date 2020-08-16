@@ -1,4 +1,4 @@
-#setwd(getwd())
+setwd(getwd())
 source("setup.R")
 source("data.R")
 source("graphics.R")
