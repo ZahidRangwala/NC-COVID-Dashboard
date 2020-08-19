@@ -1,5 +1,7 @@
 # NC-COVID-Dashboard
 
+Link to the dashboard : https://zahidrangwala.shinyapps.io/COVID-19_Tracker/
+
 ### Background 
 
 Side project I have been working on during quarantine to better understand COVID-19 trends in my home state
