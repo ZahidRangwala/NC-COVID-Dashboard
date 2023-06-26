@@ -1,5 +1,9 @@
 # NC-COVID-Dashboard
 
+### Dashboard has been Archived 
+At some point during the last year the CSEE at Johns Hopkins University changed the way data is being reported. 
+As a result some of the data in the dashboard no longer reflects accuarte real life information. I have archived the link for now. 
+
 Link to the dashboard : https://zahidrangwala.shinyapps.io/COVID-19_Tracker/
 
 ### Background 
